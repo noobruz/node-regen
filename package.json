@@ -1,0 +1,19 @@
+{
+  "name": "rebuild",
+  "version": "1.0.0",
+  "description": "Express and nodejs template generating tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noobruz/node-regen.git"
+  },
+  "author": "onyiboixy@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noobruz/node-regen/issues"
+  },
+  "homepage": "https://github.com/noobruz/node-regen#readme"
+}
